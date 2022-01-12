@@ -1,6 +1,6 @@
 ---
 title: "About"
-layout: about
+# layout: about
 permalink: /about/
-author_profile: true
+# author_profile: true
 ---
