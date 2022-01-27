@@ -12,9 +12,6 @@ toc_sticky: true
  
 date: 2022-01-27
 last_modified_at: 2022-01-27
-
-
-
 ---
 
 ## [C / C++] 백준 1748번 - 수 이어 쓰기 1
@@ -98,4 +95,3 @@ N = 9812
 ### ✅ 코드
 
 <script src="https://gist.github.com/2hyunjinn/5f681d768cfb1dd33eed71449e65b856.js"></script>
-
