@@ -95,7 +95,7 @@ N = 9812
 
 
 
-### 코드 [직접 구현]
+### ✅ 코드
 
 <script src="https://gist.github.com/2hyunjinn/5f681d768cfb1dd33eed71449e65b856.js"></script>
 
