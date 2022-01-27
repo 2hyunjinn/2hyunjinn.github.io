@@ -21,7 +21,7 @@ last_modified_at: 2022-01-27
 
 #### 백준 1748번 - 수 이어 쓰기 1
 
-![1748](../images/Baekjoon_1748-posting/1748.PNG)
+![1748](https://github.com/2hyunjinn/2hyunjinn.github.io/blob/master/images/Baekjoon_1748-posting/1748.PNG?raw=true)
 
 
 
