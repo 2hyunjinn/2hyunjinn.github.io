@@ -28,7 +28,7 @@ last_modified_at: 2022-02-04
 
 <u>코딩공부 카페의 대외활동</u> **'모각코**'에 참여했습니다 :-D
 
-[코뮤니티카페](https://cafe.naver.com/codeuniv/60982) ◀ CLICK CLICK
+[코뮤니티카페](https://cafe.naver.com/codeuniv/60982) ◀ CLICK CLICK
 
 ------
 
@@ -44,7 +44,7 @@ last_modified_at: 2022-02-04
 
 
 
-![모각코 과제](../images/2022-02-04-mogakco_0-posting/모각코 과제-16439775870321.png)
+![모각코 과제](https://github.com/2hyunjinn/2hyunjinn.github.io/blob/master/images/2022-02-04-mogakco_0-posting/%EB%AA%A8%EA%B0%81%EC%BD%94%20%EA%B3%BC%EC%A0%9C-16439775870321.png?raw=true)
 
 
 
