@@ -3,7 +3,7 @@ title:  "모각코 < Kotlin 기초편 >을 시작하며"
 excerpt: "모각코 <Kotlin 기초편>"
 
 categories:
-  - 모각코 <Kotlin 기초편>
+  - 모각코 Kotlin 기초편
 tags:
   - [Blog, Github, Git, Kotlin, kotlin, 모각코, 모각코_코틀린, 모각코_코틀린기초편, 코뮤니티, 대외활동]
 
