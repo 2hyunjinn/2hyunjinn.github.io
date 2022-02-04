@@ -44,7 +44,7 @@ last_modified_at: 2022-02-04
 
 
 
-![모각코 과제](../images/2022-02-04-mogakco_0-posting/모각코 과제-16439710708771.png)
+![모각코 과제](https://github.com/2hyunjinn/2hyunjinn.github.io/blob/master/images/2022-02-04-mogakco_0-posting/%EB%AA%A8%EA%B0%81%EC%BD%94%20%EA%B3%BC%EC%A0%9C.png?raw=true)
 
 
 
@@ -60,7 +60,7 @@ last_modified_at: 2022-02-04
 
 #### ⚡ 과제 제출은?
 
-![과제제출은](../images/2022-02-04-mogakco_0-posting/과제제출은-16439710708772.png)
+![과제제출은](https://github.com/2hyunjinn/2hyunjinn.github.io/blob/master/images/2022-02-04-mogakco_0-posting/%EA%B3%BC%EC%A0%9C%EC%A0%9C%EC%B6%9C%EC%9D%80.png?raw=true)
 
 
 
