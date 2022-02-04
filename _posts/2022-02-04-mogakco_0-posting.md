@@ -36,7 +36,7 @@ last_modified_at: 2022-02-04
 
 #### ⚡ 2월 모각코 일정표
 
-![모각코 일정 달력 최종](../images/2022-02-04-mogakco_0-posting/모각코 일정 달력 최종.png)
+![모각코 일정 달력 최종](https://github.com/2hyunjinn/2hyunjinn.github.io/blob/master/images/2022-02-04-mogakco_0-posting/%EB%AA%A8%EA%B0%81%EC%BD%94%20%EC%9D%BC%EC%A0%95%20%EB%8B%AC%EB%A0%A5%20%EC%B5%9C%EC%A2%85.png?raw=true)
 
 2월 달은 주말을 제외하고 **2/3 ~ 2/25일 동안** 
 
