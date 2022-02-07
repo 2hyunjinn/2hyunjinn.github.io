@@ -44,7 +44,7 @@ GCD(최대공약수) 계산 알고리즘인,
 
 > **"자연수 2개의 최대공약수 = (큰 수 - 작은 수)와 작은 수의 최대공약수"**
 
-![gcd_1](../images/GCD/gcd_1.png)
+![gcd_1](https://github.com/2hyunjinn/2hyunjinn.github.io/blob/master/_posts/images/GCD/gcd_1.png?raw=true)
 
 여기서 **뺄셈 대신 나눗셈을 이용**하여 좀 더 빠르게 구현한 것이
 
