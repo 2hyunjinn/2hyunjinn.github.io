@@ -295,3 +295,31 @@ defaults:
     values:
       layout: single
       author_profile: true
+
+ about: {
+    timestamps: [
+      // =====       [Timestamp Sample and Structure]      =====
+      // ===== 🚫 Don't erase this sample (여기 지우지 마세요!) =====
+      {
+        date: '',
+        activity: '',
+        links: {
+          github: '',
+          post: '',
+          googlePlay: '',
+          appStore: '',
+          demo: '',
+        },
+      },
+      // ========================================================
+      // ========================================================
+      {
+        date: '2021.02 ~',
+        activity: '개인 블로그 개발 및 운영',
+        links: {
+          post: '/gatsby-starter-zoomkoding-introduction',
+          github: 'https://github.com/zoomkoding/zoomkoding-gatsby-blog',
+          demo: 'https://www.zoomkoding.com',
+        },
+      },
+    ]
