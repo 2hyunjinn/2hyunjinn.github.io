@@ -18,21 +18,25 @@ last_modified_at: 2022-02-07
 
 ## **✅ 프로젝트 생성하기**
 
-1. 안드로이드 스튜디오 프로그램 열기
-2. **'Create New Project'** 클릭
-3. 템플릿 선택하기 - **'Empty Activity'**
+1)_안드로이드 스튜디오 프로그램 열기
+
+2)_**'Create New Project'** 클릭
+
+3)_템플릿 선택하기 - **'Empty Activity'**
 
 ![2-1.png](https://s3.ap-northeast-2.amazonaws.com/images.codemate.kr/images/guswlsdl04/post/1644227852470/2-1.png)
 
 
 
-4. 프로젝트 설정하기
+4)_프로젝트 설정하기
 
 ![2-2.png](https://s3.ap-northeast-2.amazonaws.com/images.codemate.kr/images/guswlsdl04/post/1644227900863/2-2.png)
 
 
 
 **⚡ Name : 특수문자 없이 영어로!**
+
+
 
 
 
@@ -52,7 +56,11 @@ ex) com.comu.android.mogakko
 
 
 
+
+
 **⚡ Save location : 프로젝트가 저장될 위치**
+
+
 
 
 
@@ -60,17 +68,17 @@ ex) com.comu.android.mogakko
 
 
 
-⚡ Minimum SDK : 앱의 스펙을 결정하는 중요한 부분!
+
+
+**⚡ Minimum SDK : 앱의 스펙을 결정하는 중요한 부분!**
 
 - '최소 이정도까지는 지원할 것이다!'를 결정하는 것
 
-- 너무 최신 버전으로 설정할 경우 
+- **너무 최신 버전으로 설정할 경우** : 사용할 수 없는 앱이 너무 많아질 수 있음
 
-  : 사용할 수 없는 앱이 너무 많아질 수 있음
+- 너무 이전 버전으로 설정할 경우 : 최신 기능 사용 불가능 or 버전 별 오류 처리가 많아짐
 
-- 너무 이전 버전으로 설정할 경우
-
-  : 최신 기능 사용 불가능 or 버전 별 오류 처리가 많아짐
+  
 
 
 
@@ -80,7 +88,7 @@ ex) com.comu.android.mogakko
 
 
 
-5.  Finish 버튼 누르기
+5)_Finish 버튼 누르기
 
 ---
 
@@ -96,4 +104,4 @@ ex) com.comu.android.mogakko
 
 
 
-[codemate_@guswlsdl04](https://codemate.kr/@guswlsdl04/%EB%AA%A8%EA%B0%81%EC%BD%94-%EC%BD%94%ED%8B%80%EB%A6%B0-%EA%B8%B0%EC%B4%88%ED%8E%B8-2%EC%9D%BC%EC%B0%A8)
+[codemate_@guswlsdl04](https://codemate.kr/@guswlsdl04/%EB%AA%A8%EA%B0%81%EC%BD%94-%EC%BD%94%ED%8B%80%EB%A6%B0-%EA%B8%B0%EC%B4%88%ED%8E%B8-2%EC%9D%BC%EC%B0%A8) ◀ CLICK HERE!
